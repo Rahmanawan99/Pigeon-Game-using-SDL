@@ -1,0 +1,40 @@
+﻿  Main.cpp
+C:\Users\Think Pad\Downloads\PegionGame (1)\PegionGame\PegionGame\GameObject.h(61,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Think Pad\Downloads\PegionGame (1)\PegionGame\PegionGame\GameObject.h(64,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Think Pad\Downloads\PegionGame (1)\PegionGame\PegionGame\GameObject.h(65,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Think Pad\Downloads\PegionGame (1)\PegionGame\PegionGame\Player.h(83,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Think Pad\Downloads\PegionGame (1)\PegionGame\PegionGame\Player.h(83,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Think Pad\Downloads\PegionGame (1)\PegionGame\PegionGame\Table.h(79,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Think Pad\Downloads\PegionGame (1)\PegionGame\PegionGame\Table.h(80,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Think Pad\Downloads\PegionGame (1)\PegionGame\PegionGame\Table.h(83,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Think Pad\Downloads\PegionGame (1)\PegionGame\PegionGame\Table.h(84,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Think Pad\Downloads\PegionGame (1)\PegionGame\PegionGame\Table.h(87,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Think Pad\Downloads\PegionGame (1)\PegionGame\PegionGame\Table.h(88,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Think Pad\Downloads\PegionGame (1)\PegionGame\PegionGame\Table.h(92,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Think Pad\Downloads\PegionGame (1)\PegionGame\PegionGame\Table.h(93,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Think Pad\Downloads\PegionGame (1)\PegionGame\PegionGame\Table.h(111,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Think Pad\Downloads\PegionGame (1)\PegionGame\PegionGame\Table.h(111,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Think Pad\Downloads\PegionGame (1)\PegionGame\PegionGame\Table.h(125,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Think Pad\Downloads\PegionGame (1)\PegionGame\PegionGame\Table.h(125,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Think Pad\Downloads\PegionGame (1)\PegionGame\PegionGame\Guard.h(46,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Think Pad\Downloads\PegionGame (1)\PegionGame\PegionGame\Guard.h(46,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Think Pad\Downloads\PegionGame (1)\PegionGame\PegionGame\Wall.h(35,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Think Pad\Downloads\PegionGame (1)\PegionGame\PegionGame\Wall.h(37,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Think Pad\Downloads\PegionGame (1)\PegionGame\PegionGame\Wall.h(40,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Think Pad\Downloads\PegionGame (1)\PegionGame\PegionGame\Wall.h(41,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Think Pad\Downloads\PegionGame (1)\PegionGame\PegionGame\Wall.h(45,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Think Pad\Downloads\PegionGame (1)\PegionGame\PegionGame\Wall.h(46,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Think Pad\Downloads\PegionGame (1)\PegionGame\PegionGame\Wall.h(51,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Think Pad\Downloads\PegionGame (1)\PegionGame\PegionGame\Wall.h(53,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Think Pad\Downloads\PegionGame (1)\PegionGame\PegionGame\GreenDoor.h(45,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Think Pad\Downloads\PegionGame (1)\PegionGame\PegionGame\GreenDoor.h(46,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Think Pad\Downloads\PegionGame (1)\PegionGame\PegionGame\GreenDoor.h(50,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Think Pad\Downloads\PegionGame (1)\PegionGame\PegionGame\GreenDoor.h(51,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Think Pad\Downloads\PegionGame (1)\PegionGame\PegionGame\GreenDoor.h(55,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Think Pad\Downloads\PegionGame (1)\PegionGame\PegionGame\GreenDoor.h(56,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Think Pad\Downloads\PegionGame (1)\PegionGame\PegionGame\GreenDoor.h(61,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Think Pad\Downloads\PegionGame (1)\PegionGame\PegionGame\GreenDoor.h(62,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Think Pad\Downloads\PegionGame (1)\PegionGame\PegionGame\Main.cpp(21,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Think Pad\Downloads\PegionGame (1)\PegionGame\PegionGame\Main.cpp(24,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Think Pad\Downloads\PegionGame (1)\PegionGame\PegionGame\Main.cpp(22,12): warning C4101: 'event': unreferenced local variable
+  PegionGame.vcxproj -> C:\Users\Think Pad\Downloads\PegionGame (1)\PegionGame\x64\Debug\PegionGame.exe
